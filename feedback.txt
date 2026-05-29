@@ -1,0 +1,6 @@
+K(30%): 0
+I(30%): 0
+C(10%): 0
+A(30%): 0
+
+This does not look like it was made by you. It has multiple elements we have never covered in class.
